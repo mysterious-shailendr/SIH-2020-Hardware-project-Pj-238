@@ -1,6 +1,6 @@
 # SIH-2020-Hardware-project-Pj-238-
 Smart India Hackathon 2020 Hardware Edition 
-Our team worked on a hardware problem, no: PJ-238.
+Our team worked on a hardware problem, no: PJ-238
 We have made it to the finals, We came 1st runner up
 ## Problem statement description: 
   Cost effective innovative solution for long distanch (3 to 8 kms) wireless (LAN) Broadband

@@ -1,4 +1,4 @@
-# SIH-2020-Hardware-project-Pj-238-
+# SIH-2020-Hardware-project-Pj-238
 Smart India Hackathon 2020 Hardware Edition<br/>
 Our team worked on a hardware problem, no: PJ-238<br/>
 We have made it to the finals, We came 1st runner up
